@@ -1,3 +1,14 @@
+# Personal
+*.DS_Store
+*api_key.txt
+*.idea
+*lib
+*out
+*.metadata
+*.classpath
+*.project
+*.settings
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
