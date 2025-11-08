@@ -1,0 +1,1902 @@
+[
+    {
+        "player": {
+            "age": 32,
+            "birth": {
+                "country": "France",
+                "date": "1992-09-04",
+                "place": "Fr\u00e9jus"
+            },
+            "firstname": "Layvin Marc",
+            "height": "182 cm",
+            "id": 263,
+            "injured": false,
+            "lastname": "Kurzawa",
+            "name": "L. Kurzawa",
+            "nationality": "France",
+            "photo": "https://media.api-sports.io/football/players/263.png",
+            "weight": "74 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": null,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": null,
+                    "saved": null,
+                    "scored": null,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 38,
+            "birth": {
+                "country": "Costa Rica",
+                "date": "1986-12-15",
+                "place": "San Isidro"
+            },
+            "firstname": "Keylor Antonio",
+            "height": "185 cm",
+            "id": 731,
+            "injured": false,
+            "lastname": "Navas Gamboa",
+            "name": "K. Navas",
+            "nationality": "Costa Rica",
+            "photo": "https://media.api-sports.io/football/players/731.png",
+            "weight": "80 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": 0,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 4,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 38,
+            "birth": {
+                "country": "Spain",
+                "date": "1986-03-30",
+                "place": "Camas"
+            },
+            "firstname": "Sergio",
+            "height": "184 cm",
+            "id": 738,
+            "injured": false,
+            "lastname": "Ramos Garc\u00eda",
+            "name": "Sergio Ramos",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/738.png",
+            "weight": "82 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 2,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 3,
+                    "past": null,
+                    "success": 3
+                },
+                "duels": {
+                    "total": 52,
+                    "won": 32
+                },
+                "fouls": {
+                    "committed": 4,
+                    "drawn": 3
+                },
+                "games": {
+                    "appearences": 8,
+                    "captain": false,
+                    "lineups": 8,
+                    "minutes": 720,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "7.025000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 62,
+                    "key": null,
+                    "total": 537
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 2,
+                    "total": 6
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": 6,
+                    "interceptions": 11,
+                    "total": 9
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 34,
+            "birth": {
+                "country": "France",
+                "date": "1990-12-11",
+                "place": "Paris"
+            },
+            "firstname": "Alexandre",
+            "height": "193 cm",
+            "id": 20568,
+            "injured": false,
+            "lastname": "Letellier",
+            "name": "A. Letellier",
+            "nationality": "France",
+            "photo": "https://media.api-sports.io/football/players/20568.png",
+            "weight": "93 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": 0,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 4,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 31,
+            "birth": {
+                "country": "Brazil",
+                "date": "1993-02-12",
+                "place": "S\u00e3o Paulo"
+            },
+            "firstname": "Rafael",
+            "height": "174 cm",
+            "id": 142,
+            "injured": false,
+            "lastname": "Alc\u00e2ntara do Nascimento",
+            "name": "Rafinha",
+            "nationality": "Brazil",
+            "photo": "https://media.api-sports.io/football/players/142.png",
+            "weight": "71 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": null,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": null,
+                    "saved": null,
+                    "scored": null,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 28,
+            "birth": {
+                "country": "France",
+                "date": "1996-05-04",
+                "place": "Tours"
+            },
+            "firstname": "Abdou-Lakhad",
+            "height": "187 cm",
+            "id": 7,
+            "injured": false,
+            "lastname": "Diallo",
+            "name": "A. Diallo",
+            "nationality": "Senegal",
+            "photo": "https://media.api-sports.io/football/players/7.png",
+            "weight": "79 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 5,
+                    "past": null,
+                    "success": 5
+                },
+                "duels": {
+                    "total": 21,
+                    "won": 15
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": 2
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.680000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 1,
+                    "total": 187
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": 1
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": 1,
+                    "total": 4
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 37,
+            "birth": {
+                "country": "Argentina",
+                "date": "1987-06-24",
+                "place": "Rosario"
+            },
+            "firstname": "Lionel Andr\u00e9s",
+            "height": "170 cm",
+            "id": 154,
+            "injured": false,
+            "lastname": "Messi Cuccittini",
+            "name": "L. Messi",
+            "nationality": "Argentina",
+            "photo": "https://media.api-sports.io/football/players/154.png",
+            "weight": "67 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 25,
+                    "past": null,
+                    "success": 14
+                },
+                "duels": {
+                    "total": 65,
+                    "won": 35
+                },
+                "fouls": {
+                    "committed": 2,
+                    "drawn": 16
+                },
+                "games": {
+                    "appearences": 7,
+                    "captain": false,
+                    "lineups": 7,
+                    "minutes": 615,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.885714"
+                },
+                "goals": {
+                    "assists": 4,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 4
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 49,
+                    "key": 19,
+                    "total": 396
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 9,
+                    "total": 14
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 2
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 3,
+                    "total": 4
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 31,
+            "birth": {
+                "country": "Argentina",
+                "date": "1993-02-19",
+                "place": "Rosario"
+            },
+            "firstname": "Mauro Emanuel",
+            "height": "181 cm",
+            "id": 216,
+            "injured": false,
+            "lastname": "Icardi Rivero",
+            "name": "M. Icardi",
+            "nationality": "Argentina",
+            "photo": "https://media.api-sports.io/football/players/216.png",
+            "weight": "75 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": null,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": null,
+                    "saved": null,
+                    "scored": null,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 33,
+            "birth": {
+                "country": "Guinea-Bissau",
+                "date": "1991-09-09",
+                "place": "Bissau"
+            },
+            "firstname": "Danilo Lu\u00eds H\u00e9lio",
+            "height": "188 cm",
+            "id": 381,
+            "injured": false,
+            "lastname": "Pereira",
+            "name": "Danilo Pereira",
+            "nationality": "Portugal",
+            "photo": "https://media.api-sports.io/football/players/381.png",
+            "weight": "83 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 6,
+                    "past": null,
+                    "success": 4
+                },
+                "duels": {
+                    "total": 33,
+                    "won": 22
+                },
+                "fouls": {
+                    "committed": 1,
+                    "drawn": 3
+                },
+                "games": {
+                    "appearences": 7,
+                    "captain": false,
+                    "lineups": 5,
+                    "minutes": 449,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.916666"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 43,
+                    "key": null,
+                    "total": 324
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 1,
+                    "total": 1
+                },
+                "substitutes": {
+                    "bench": 2,
+                    "in": 2,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": 2,
+                    "interceptions": 6,
+                    "total": 10
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 32,
+            "birth": {
+                "country": "Brazil",
+                "date": "1992-02-05",
+                "place": "Mogi das Cruzes"
+            },
+            "firstname": "Neymar",
+            "height": "175 cm",
+            "id": 276,
+            "injured": false,
+            "lastname": "da Silva Santos J\u00fanior",
+            "name": "Neymar",
+            "nationality": "Brazil",
+            "photo": "https://media.api-sports.io/football/players/276.png",
+            "weight": "68 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 4,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 26,
+                    "past": null,
+                    "success": 14
+                },
+                "duels": {
+                    "total": 85,
+                    "won": 36
+                },
+                "fouls": {
+                    "committed": 8,
+                    "drawn": 19
+                },
+                "games": {
+                    "appearences": 6,
+                    "captain": false,
+                    "lineups": 6,
+                    "minutes": 540,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.533333"
+                },
+                "goals": {
+                    "assists": 2,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 2
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 52,
+                    "key": 16,
+                    "total": 366
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 6,
+                    "total": 11
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 2,
+                    "total": 3
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 22,
+            "birth": {
+                "country": "Portugal",
+                "date": "2002-06-19",
+                "place": "Sintra"
+            },
+            "firstname": "Nuno Alexandre",
+            "height": "180 cm",
+            "id": 263482,
+            "injured": false,
+            "lastname": "Tavares Mendes",
+            "name": "Nuno Mendes",
+            "nationality": "Portugal",
+            "photo": "https://media.api-sports.io/football/players/263482.png",
+            "weight": "70 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 20,
+                    "past": null,
+                    "success": 11
+                },
+                "duels": {
+                    "total": 65,
+                    "won": 33
+                },
+                "fouls": {
+                    "committed": 6,
+                    "drawn": 9
+                },
+                "games": {
+                    "appearences": 6,
+                    "captain": false,
+                    "lineups": 5,
+                    "minutes": 441,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.850000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 1
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 5,
+                    "total": 174
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 1,
+                    "total": 1
+                },
+                "substitutes": {
+                    "bench": 2,
+                    "in": 1,
+                    "out": 2
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": 1,
+                    "total": 11
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 25,
+            "birth": {
+                "country": "Italy",
+                "date": "1999-02-25",
+                "place": "Castellammare di Stabia"
+            },
+            "firstname": "Gianluigi",
+            "height": "196 cm",
+            "id": 1622,
+            "injured": false,
+            "lastname": "Donnarumma",
+            "name": "G. Donnarumma",
+            "nationality": "Italy",
+            "photo": "https://media.api-sports.io/football/players/1622.png",
+            "weight": "90 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": 1,
+                    "won": 1
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": 1
+                },
+                "games": {
+                    "appearences": 8,
+                    "captain": false,
+                    "lineups": 8,
+                    "minutes": 720,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": "6.900000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 10,
+                    "saves": 26,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": 197
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": 0,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 27,
+            "birth": {
+                "country": "Portugal",
+                "date": "1997-08-18",
+                "place": "Lisboa"
+            },
+            "firstname": "Renato J\u00fanior",
+            "height": "176 cm",
+            "id": 513,
+            "injured": false,
+            "lastname": "Luz Sanches",
+            "name": "Renato Sanches",
+            "nationality": "Portugal",
+            "photo": "https://media.api-sports.io/football/players/513.png",
+            "weight": "70 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 2,
+                    "past": null,
+                    "success": 1
+                },
+                "duels": {
+                    "total": 17,
+                    "won": 7
+                },
+                "fouls": {
+                    "committed": 3,
+                    "drawn": 3
+                },
+                "games": {
+                    "appearences": 3,
+                    "captain": false,
+                    "lineups": 1,
+                    "minutes": 140,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.550000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": 106
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 3,
+                    "in": 2,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": 1,
+                    "total": 3
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 20,
+            "birth": {
+                "country": "France",
+                "date": "2004-04-10",
+                "place": "Paris"
+            },
+            "firstname": "Isma\u00ebl Seifallah",
+            "height": "173 cm",
+            "id": 310196,
+            "injured": false,
+            "lastname": "Gharbi",
+            "name": "Isma\u00ebl Gharbi",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/310196.png",
+            "weight": "67 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 3,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 26,
+            "birth": {
+                "country": "France",
+                "date": "1998-12-20",
+                "place": "Paris"
+            },
+            "firstname": "Kylian",
+            "height": "178 cm",
+            "id": 278,
+            "injured": false,
+            "lastname": "Mbapp\u00e9 Lottin",
+            "name": "K. Mbapp\u00e9",
+            "nationality": "France",
+            "photo": "https://media.api-sports.io/football/players/278.png",
+            "weight": "75 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 37,
+                    "past": null,
+                    "success": 17
+                },
+                "duels": {
+                    "total": 66,
+                    "won": 34
+                },
+                "fouls": {
+                    "committed": 2,
+                    "drawn": 16
+                },
+                "games": {
+                    "appearences": 8,
+                    "captain": false,
+                    "lineups": 7,
+                    "minutes": 652,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.512500"
+                },
+                "goals": {
+                    "assists": 3,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 7
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 8,
+                    "total": 256
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 1,
+                    "won": null
+                },
+                "shots": {
+                    "on": 15,
+                    "total": 23
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 1,
+                    "out": 2
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 35,
+            "birth": {
+                "country": "Senegal",
+                "date": "1989-09-26",
+                "place": "Dakar"
+            },
+            "firstname": "Idrissa Gana",
+            "height": "174 cm",
+            "id": 2990,
+            "injured": false,
+            "lastname": "Gueye",
+            "name": "I. Gueye",
+            "nationality": "Senegal",
+            "photo": "https://media.api-sports.io/football/players/2990.png",
+            "weight": "66 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": null,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": null,
+                    "saved": null,
+                    "scored": null,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 27,
+            "birth": {
+                "country": "Spain",
+                "date": "1997-01-02",
+                "place": "Valencia"
+            },
+            "firstname": "Carlos",
+            "height": "180 cm",
+            "id": 930,
+            "injured": false,
+            "lastname": "Soler Barrag\u00e1n",
+            "name": "Carlos Soler",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/930.png",
+            "weight": "76 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 3,
+                    "past": null,
+                    "success": 2
+                },
+                "duels": {
+                    "total": 18,
+                    "won": 10
+                },
+                "fouls": {
+                    "committed": 3,
+                    "drawn": 3
+                },
+                "games": {
+                    "appearences": 6,
+                    "captain": false,
+                    "lineups": 2,
+                    "minutes": 153,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.950000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 1
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 3,
+                    "total": 68
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 1,
+                    "total": 2
+                },
+                "substitutes": {
+                    "bench": 6,
+                    "in": 4,
+                    "out": 2
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 3,
+                    "total": 4
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 35,
+            "birth": {
+                "country": "Spain",
+                "date": "1989-08-14",
+                "place": "Bilbao"
+            },
+            "firstname": "Ander",
+            "height": "182 cm",
+            "id": 898,
+            "injured": false,
+            "lastname": "Herrera Ag\u00fcera",
+            "name": "Ander Herrera",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/898.png",
+            "weight": "71 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": null,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": null,
+                    "saved": null,
+                    "scored": null,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 31,
+            "birth": {
+                "country": "Spain",
+                "date": "1993-03-01",
+                "place": "Valencia"
+            },
+            "firstname": "Juan",
+            "height": "177 cm",
+            "id": 258,
+            "injured": false,
+            "lastname": "Bernat Velasco",
+            "name": "Juan Bernat",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/258.png",
+            "weight": "67 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 1,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": 23,
+                    "won": 15
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": 3
+                },
+                "games": {
+                    "appearences": 5,
+                    "captain": false,
+                    "lineups": 3,
+                    "minutes": 274,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.760000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 1,
+                    "total": 185
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 5,
+                    "in": 2,
+                    "out": 2
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": 1,
+                    "total": 11
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 27,
+            "birth": {
+                "country": "France",
+                "date": "1997-11-01",
+                "place": "Montreuil"
+            },
+            "firstname": "Nordi",
+            "height": "187 cm",
+            "id": 1146,
+            "injured": false,
+            "lastname": "Mukiele Mulere",
+            "name": "N. Mukiele",
+            "nationality": "France",
+            "photo": "https://media.api-sports.io/football/players/1146.png",
+            "weight": "84 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": 12,
+                    "won": 4
+                },
+                "fouls": {
+                    "committed": 4,
+                    "drawn": 1
+                },
+                "games": {
+                    "appearences": 4,
+                    "captain": false,
+                    "lineups": 1,
+                    "minutes": 110,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.625000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 1,
+                    "total": 46
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 6,
+                    "in": 3,
+                    "out": 2
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": 1,
+                    "total": 1
+                },
+                "team": {
+                    "id": 85,
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "name": "Paris Saint Germain"
+                }
+            }
+        ]
+    }
+]

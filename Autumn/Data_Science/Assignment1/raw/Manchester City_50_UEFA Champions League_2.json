@@ -1,0 +1,1902 @@
+[
+    {
+        "player": {
+            "age": 22,
+            "birth": {
+                "country": "England",
+                "date": "2002-06-14",
+                "place": "Cambridge"
+            },
+            "firstname": "Benjamin Leo",
+            "height": "171 cm",
+            "id": 144733,
+            "injured": false,
+            "lastname": "Knight",
+            "name": "B. Knight",
+            "nationality": "England",
+            "photo": "https://media.api-sports.io/football/players/144733.png",
+            "weight": "61 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": null,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": null,
+                    "saved": null,
+                    "scored": null,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 30,
+            "birth": {
+                "country": "Portugal",
+                "date": "1994-05-27",
+                "place": "Barreiro"
+            },
+            "firstname": "Jo\u00e3o Pedro",
+            "height": "182 cm",
+            "id": 855,
+            "injured": false,
+            "lastname": "Cavaco Cancelo",
+            "name": "Jo\u00e3o Cancelo",
+            "nationality": "Portugal",
+            "photo": "https://media.api-sports.io/football/players/855.png",
+            "weight": "74 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 1,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 6,
+                    "past": null,
+                    "success": 4
+                },
+                "duels": {
+                    "total": 17,
+                    "won": 9
+                },
+                "fouls": {
+                    "committed": 1,
+                    "drawn": 1
+                },
+                "games": {
+                    "appearences": 6,
+                    "captain": false,
+                    "lineups": 5,
+                    "minutes": 378,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.700000"
+                },
+                "goals": {
+                    "assists": 1,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 1,
+                    "total": 89
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 1,
+                    "out": 2
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": 4
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 24,
+            "birth": {
+                "country": "Argentina",
+                "date": "2000-01-31",
+                "place": "Calch\u00edn"
+            },
+            "firstname": "Juli\u00e1n",
+            "height": "170 cm",
+            "id": 6009,
+            "injured": false,
+            "lastname": "Alvarez",
+            "name": "J. Alvarez",
+            "nationality": "Argentina",
+            "photo": "https://media.api-sports.io/football/players/6009.png",
+            "weight": "71 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 1,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 10,
+                    "past": null,
+                    "success": 3
+                },
+                "duels": {
+                    "total": 43,
+                    "won": 14
+                },
+                "fouls": {
+                    "committed": 9,
+                    "drawn": 2
+                },
+                "games": {
+                    "appearences": 10,
+                    "captain": false,
+                    "lineups": 4,
+                    "minutes": 468,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.040000"
+                },
+                "goals": {
+                    "assists": 2,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 3
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 9,
+                    "total": 112
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 7,
+                    "total": 11
+                },
+                "substitutes": {
+                    "bench": 9,
+                    "in": 6,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 2,
+                    "total": 5
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 24,
+            "birth": {
+                "country": "Spain",
+                "date": "2000-09-04",
+                "place": "Badalona"
+            },
+            "firstname": "Sergio",
+            "height": "173 cm",
+            "id": 23,
+            "injured": false,
+            "lastname": "G\u00f3mez Mart\u00edn",
+            "name": "Sergio G\u00f3mez",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/23.png",
+            "weight": "71 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 1,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 5,
+                    "past": null,
+                    "success": 5
+                },
+                "duels": {
+                    "total": 25,
+                    "won": 16
+                },
+                "fouls": {
+                    "committed": 3,
+                    "drawn": 1
+                },
+                "games": {
+                    "appearences": 5,
+                    "captain": false,
+                    "lineups": 4,
+                    "minutes": 306,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.940000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 46,
+                    "key": 3,
+                    "total": 254
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 2,
+                    "total": 4
+                },
+                "substitutes": {
+                    "bench": 8,
+                    "in": 1,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 2,
+                    "total": 4
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 33,
+            "birth": {
+                "country": "France",
+                "date": "1991-02-21",
+                "place": "Sarcelles"
+            },
+            "firstname": "Riyad Karim",
+            "height": "179 cm",
+            "id": 635,
+            "injured": false,
+            "lastname": "Mahrez",
+            "name": "R. Mahrez",
+            "nationality": "Algeria",
+            "photo": "https://media.api-sports.io/football/players/635.png",
+            "weight": "67 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 22,
+                    "past": null,
+                    "success": 12
+                },
+                "duels": {
+                    "total": 60,
+                    "won": 31
+                },
+                "fouls": {
+                    "committed": 4,
+                    "drawn": 9
+                },
+                "games": {
+                    "appearences": 9,
+                    "captain": false,
+                    "lineups": 6,
+                    "minutes": 506,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.166666"
+                },
+                "goals": {
+                    "assists": 2,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 3
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 19,
+                    "total": 288
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 2,
+                    "saved": null,
+                    "scored": 1,
+                    "won": null
+                },
+                "shots": {
+                    "on": 7,
+                    "total": 8
+                },
+                "substitutes": {
+                    "bench": 7,
+                    "in": 3,
+                    "out": 3
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 1,
+                    "total": 9
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 30,
+            "birth": {
+                "country": "France",
+                "date": "1994-05-27",
+                "place": "Agen"
+            },
+            "firstname": "Aymeric Jean Louis G\u00e9rard Alph",
+            "height": "189 cm",
+            "id": 622,
+            "injured": false,
+            "lastname": "Laporte",
+            "name": "Aymeric Laporte",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/622.png",
+            "weight": "86 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 1,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": 18,
+                    "won": 11
+                },
+                "fouls": {
+                    "committed": 3,
+                    "drawn": 1
+                },
+                "games": {
+                    "appearences": 4,
+                    "captain": false,
+                    "lineups": 3,
+                    "minutes": 292,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.825000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 62,
+                    "key": 1,
+                    "total": 267
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 7,
+                    "in": 1,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 3,
+                    "total": null
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 21,
+            "birth": {
+                "country": "England",
+                "date": "2003-11-05",
+                "place": "Manchester"
+            },
+            "firstname": "Shea Emmanuel",
+            "height": "189 cm",
+            "id": 284356,
+            "injured": false,
+            "lastname": "Charles",
+            "name": "S. Charles",
+            "nationality": "Northern Ireland",
+            "photo": "https://media.api-sports.io/football/players/284356.png",
+            "weight": null
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 30,
+            "birth": {
+                "country": "Portugal",
+                "date": "1994-08-10",
+                "place": "Lisboa"
+            },
+            "firstname": "Bernardo",
+            "height": "173 cm",
+            "id": 636,
+            "injured": false,
+            "lastname": "Mota Veiga de Carvalho e Silva",
+            "name": "Bernardo Silva",
+            "nationality": "Portugal",
+            "photo": "https://media.api-sports.io/football/players/636.png",
+            "weight": "65 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 2,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 40,
+                    "past": null,
+                    "success": 26
+                },
+                "duels": {
+                    "total": 136,
+                    "won": 61
+                },
+                "fouls": {
+                    "committed": 19,
+                    "drawn": 13
+                },
+                "games": {
+                    "appearences": 13,
+                    "captain": false,
+                    "lineups": 9,
+                    "minutes": 908,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "7.200000"
+                },
+                "goals": {
+                    "assists": 1,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 3
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 41,
+                    "key": 20,
+                    "total": 594
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 5,
+                    "total": 7
+                },
+                "substitutes": {
+                    "bench": 4,
+                    "in": 4,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 9,
+                    "total": 19
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 34,
+            "birth": {
+                "country": "Germany",
+                "date": "1990-10-24",
+                "place": "Gelsenkirchen"
+            },
+            "firstname": "\u0130lkay",
+            "height": "180 cm",
+            "id": 633,
+            "injured": false,
+            "lastname": "G\u00fcndo\u011fan",
+            "name": "\u0130. G\u00fcndo\u011fan",
+            "nationality": "Germany",
+            "photo": "https://media.api-sports.io/football/players/633.png",
+            "weight": "80 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 4,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 12,
+                    "past": null,
+                    "success": 11
+                },
+                "duels": {
+                    "total": 82,
+                    "won": 49
+                },
+                "fouls": {
+                    "committed": 6,
+                    "drawn": 17
+                },
+                "games": {
+                    "appearences": 13,
+                    "captain": false,
+                    "lineups": 12,
+                    "minutes": 997,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "7.130769"
+                },
+                "goals": {
+                    "assists": 2,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 1
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 51,
+                    "key": 14,
+                    "total": 744
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 8,
+                    "total": 13
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 1,
+                    "out": 4
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": 7,
+                    "total": 12
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 24,
+            "birth": {
+                "country": "England",
+                "date": "2000-05-28",
+                "place": "Stockport"
+            },
+            "firstname": "Philip Walter",
+            "height": "171 cm",
+            "id": 631,
+            "injured": false,
+            "lastname": "Foden",
+            "name": "P. Foden",
+            "nationality": "England",
+            "photo": "https://media.api-sports.io/football/players/631.png",
+            "weight": "63 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 1,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 11,
+                    "past": null,
+                    "success": 7
+                },
+                "duels": {
+                    "total": 43,
+                    "won": 22
+                },
+                "fouls": {
+                    "committed": 4,
+                    "drawn": 9
+                },
+                "games": {
+                    "appearences": 8,
+                    "captain": false,
+                    "lineups": 3,
+                    "minutes": 381,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "7.150000"
+                },
+                "goals": {
+                    "assists": 1,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 1
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 10,
+                    "total": 209
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 5,
+                    "total": 7
+                },
+                "substitutes": {
+                    "bench": 9,
+                    "in": 5,
+                    "out": 2
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 5,
+                    "total": 5
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 31,
+            "birth": {
+                "country": "Brazil",
+                "date": "1993-08-17",
+                "place": "Osasco"
+            },
+            "firstname": "Ederson",
+            "height": "188 cm",
+            "id": 617,
+            "injured": false,
+            "lastname": "Santana de Moraes",
+            "name": "Ederson",
+            "nationality": "Brazil",
+            "photo": "https://media.api-sports.io/football/players/617.png",
+            "weight": "86 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 2,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 1,
+                    "past": null,
+                    "success": 1
+                },
+                "duels": {
+                    "total": 2,
+                    "won": 2
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": 1
+                },
+                "games": {
+                    "appearences": 11,
+                    "captain": false,
+                    "lineups": 11,
+                    "minutes": 990,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": "7.345454"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 4,
+                    "saves": 28,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": 301
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": 2,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 2,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 21,
+            "birth": {
+                "country": "Scotland",
+                "date": "2003-04-17",
+                "place": "Dundee"
+            },
+            "firstname": "Alexander Sean Pablo",
+            "height": "182 cm",
+            "id": 288109,
+            "injured": false,
+            "lastname": "Robertson",
+            "name": "A. Robertson",
+            "nationality": "Australia",
+            "photo": "https://media.api-sports.io/football/players/288109.png",
+            "weight": null
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 29,
+            "birth": {
+                "country": "England",
+                "date": "1995-12-02",
+                "place": "Leeds"
+            },
+            "firstname": "Kalvin Mark",
+            "height": "178 cm",
+            "id": 19130,
+            "injured": false,
+            "lastname": "Phillips",
+            "name": "K. Phillips",
+            "nationality": "England",
+            "photo": "https://media.api-sports.io/football/players/19130.png",
+            "weight": "72 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": 2,
+                    "won": 1
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 3,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 38,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.700000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": 46
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 9,
+                    "in": 3,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 1,
+                    "total": null
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 22,
+            "birth": {
+                "country": "England",
+                "date": "2002-05-06",
+                "place": "Manchester"
+            },
+            "firstname": "Cole Jermaine",
+            "height": "189 cm",
+            "id": 152982,
+            "injured": false,
+            "lastname": "Palmer",
+            "name": "C. Palmer",
+            "nationality": "England",
+            "photo": "https://media.api-sports.io/football/players/152982.png",
+            "weight": "76 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 5,
+                    "past": null,
+                    "success": 4
+                },
+                "duels": {
+                    "total": 10,
+                    "won": 5
+                },
+                "fouls": {
+                    "committed": 1,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 4,
+                    "captain": false,
+                    "lineups": 1,
+                    "minutes": 136,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.833333"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": 59
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 2,
+                    "total": 3
+                },
+                "substitutes": {
+                    "bench": 12,
+                    "in": 3,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": 1
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 24,
+            "birth": {
+                "country": "England",
+                "date": "2000-07-21",
+                "place": "Leeds"
+            },
+            "firstname": "Erling",
+            "height": "194 cm",
+            "id": 1100,
+            "injured": false,
+            "lastname": "Braut Haaland",
+            "name": "E. Haaland",
+            "nationality": "Norway",
+            "photo": "https://media.api-sports.io/football/players/1100.png",
+            "weight": "88 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 1,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 16,
+                    "past": null,
+                    "success": 12
+                },
+                "duels": {
+                    "total": 71,
+                    "won": 37
+                },
+                "fouls": {
+                    "committed": 11,
+                    "drawn": 7
+                },
+                "games": {
+                    "appearences": 11,
+                    "captain": false,
+                    "lineups": 11,
+                    "minutes": 848,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.372727"
+                },
+                "goals": {
+                    "assists": 1,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 12
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 7,
+                    "total": 122
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 1,
+                    "saved": null,
+                    "scored": 1,
+                    "won": null
+                },
+                "shots": {
+                    "on": 26,
+                    "total": 35
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 0,
+                    "out": 7
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 2,
+                    "total": 1
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 33,
+            "birth": {
+                "country": "Belgium",
+                "date": "1991-06-28",
+                "place": "Drongen"
+            },
+            "firstname": "Kevin",
+            "height": "181 cm",
+            "id": 629,
+            "injured": false,
+            "lastname": "De Bruyne",
+            "name": "K. De Bruyne",
+            "nationality": "Belgium",
+            "photo": "https://media.api-sports.io/football/players/629.png",
+            "weight": "68 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 1,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 17,
+                    "past": null,
+                    "success": 10
+                },
+                "duels": {
+                    "total": 52,
+                    "won": 27
+                },
+                "fouls": {
+                    "committed": 5,
+                    "drawn": 7
+                },
+                "games": {
+                    "appearences": 10,
+                    "captain": false,
+                    "lineups": 9,
+                    "minutes": 721,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "7.620000"
+                },
+                "goals": {
+                    "assists": 6,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 2
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 22,
+                    "total": 341
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 7,
+                    "total": 13
+                },
+                "substitutes": {
+                    "bench": 3,
+                    "in": 1,
+                    "out": 6
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 2,
+                    "total": 9
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 28,
+            "birth": {
+                "country": "Spain",
+                "date": "1996-06-22",
+                "place": "Madrid"
+            },
+            "firstname": "Rodrigo",
+            "height": "190 cm",
+            "id": 44,
+            "injured": false,
+            "lastname": "Hern\u00e1ndez Cascante",
+            "name": "Rodri",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/44.png",
+            "weight": "82 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 1,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 9,
+                    "past": null,
+                    "success": 9
+                },
+                "duels": {
+                    "total": 90,
+                    "won": 54
+                },
+                "fouls": {
+                    "committed": 13,
+                    "drawn": 6
+                },
+                "games": {
+                    "appearences": 12,
+                    "captain": false,
+                    "lineups": 11,
+                    "minutes": 996,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "7.475000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 2
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 75,
+                    "key": 5,
+                    "total": 987
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 4,
+                    "total": 13
+                },
+                "substitutes": {
+                    "bench": 2,
+                    "in": 1,
+                    "out": 2
+                },
+                "tackles": {
+                    "blocks": 3,
+                    "interceptions": 13,
+                    "total": 24
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 29,
+            "birth": {
+                "country": "England",
+                "date": "1995-09-10",
+                "place": "Birmingham"
+            },
+            "firstname": "Jack Peter",
+            "height": "180 cm",
+            "id": 19187,
+            "injured": false,
+            "lastname": "Grealish",
+            "name": "J. Grealish",
+            "nationality": "England",
+            "photo": "https://media.api-sports.io/football/players/19187.png",
+            "weight": "77 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 1,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 39,
+                    "past": null,
+                    "success": 26
+                },
+                "duels": {
+                    "total": 124,
+                    "won": 70
+                },
+                "fouls": {
+                    "committed": 12,
+                    "drawn": 32
+                },
+                "games": {
+                    "appearences": 13,
+                    "captain": false,
+                    "lineups": 12,
+                    "minutes": 937,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "7.246153"
+                },
+                "goals": {
+                    "assists": 1,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 36,
+                    "total": 474
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 3,
+                    "total": 9
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 1,
+                    "out": 5
+                },
+                "tackles": {
+                    "blocks": 3,
+                    "interceptions": 4,
+                    "total": 8
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 22,
+            "birth": {
+                "country": "England",
+                "date": "2002-12-26",
+                "place": "London"
+            },
+            "firstname": "Joshua Darius",
+            "height": "176 cm",
+            "id": 278128,
+            "injured": false,
+            "lastname": "Kamani Wilson-Esbrand",
+            "name": "J. Wilson-Esbrand",
+            "nationality": "England",
+            "photo": "https://media.api-sports.io/football/players/278128.png",
+            "weight": null
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": 3,
+                    "won": 3
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": 1
+                },
+                "games": {
+                    "appearences": 2,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 44,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.800000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": 30
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 6,
+                    "in": 2,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": 1
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 20,
+            "birth": {
+                "country": "England",
+                "date": "2004-11-21",
+                "place": null
+            },
+            "firstname": "Rico Henry Mark",
+            "height": "169 cm",
+            "id": 284230,
+            "injured": false,
+            "lastname": "Lewis",
+            "name": "R. Lewis",
+            "nationality": "England",
+            "photo": "https://media.api-sports.io/football/players/284230.png",
+            "weight": null
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 2,
+                    "past": null,
+                    "success": 2
+                },
+                "duels": {
+                    "total": 9,
+                    "won": 5
+                },
+                "fouls": {
+                    "committed": 4,
+                    "drawn": 1
+                },
+                "games": {
+                    "appearences": 2,
+                    "captain": false,
+                    "lineups": 1,
+                    "minutes": 118,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "7.000000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 1
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 42,
+                    "key": 1,
+                    "total": 92
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 1,
+                    "total": 2
+                },
+                "substitutes": {
+                    "bench": 12,
+                    "in": 1,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": null,
+                    "total": 1
+                },
+                "team": {
+                    "id": 50,
+                    "logo": "https://media.api-sports.io/football/teams/50.png",
+                    "name": "Manchester City"
+                }
+            }
+        ]
+    }
+]

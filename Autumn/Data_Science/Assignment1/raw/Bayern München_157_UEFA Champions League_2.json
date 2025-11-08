@@ -1,0 +1,1902 @@
+[
+    {
+        "player": {
+            "age": 35,
+            "birth": {
+                "country": "Germany",
+                "date": "1989-03-23",
+                "place": "Hamburg"
+            },
+            "firstname": "Jean-Eric Maxim",
+            "height": "191 cm",
+            "id": 275,
+            "injured": false,
+            "lastname": "Choupo-Moting",
+            "name": "E. Choupo-Moting",
+            "nationality": "Cameroon",
+            "photo": "https://media.api-sports.io/football/players/275.png",
+            "weight": "90 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 7,
+                    "past": null,
+                    "success": 5
+                },
+                "duels": {
+                    "total": 48,
+                    "won": 24
+                },
+                "fouls": {
+                    "committed": 4,
+                    "drawn": 4
+                },
+                "games": {
+                    "appearences": 7,
+                    "captain": false,
+                    "lineups": 5,
+                    "minutes": 439,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.157142"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 4
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 5,
+                    "total": 97
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 8,
+                    "total": 12
+                },
+                "substitutes": {
+                    "bench": 4,
+                    "in": 2,
+                    "out": 5
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 1,
+                    "total": 7
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 32,
+            "birth": {
+                "country": "France",
+                "date": "1992-01-31",
+                "place": "Lyon"
+            },
+            "firstname": "Bouna Junior",
+            "height": "177 cm",
+            "id": 1915,
+            "injured": false,
+            "lastname": "Sarr",
+            "name": "B. Sarr",
+            "nationality": "Senegal",
+            "photo": "https://media.api-sports.io/football/players/1915.png",
+            "weight": "69 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 4,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 30,
+            "birth": {
+                "country": "Portugal",
+                "date": "1994-05-27",
+                "place": "Barreiro"
+            },
+            "firstname": "Jo\u00e3o Pedro",
+            "height": "182 cm",
+            "id": 855,
+            "injured": false,
+            "lastname": "Cavaco Cancelo",
+            "name": "Jo\u00e3o Cancelo",
+            "nationality": "Portugal",
+            "photo": "https://media.api-sports.io/football/players/855.png",
+            "weight": "74 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 1,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 6,
+                    "past": null,
+                    "success": 4
+                },
+                "duels": {
+                    "total": 17,
+                    "won": 9
+                },
+                "fouls": {
+                    "committed": 1,
+                    "drawn": 1
+                },
+                "games": {
+                    "appearences": 4,
+                    "captain": false,
+                    "lineups": 2,
+                    "minutes": 123,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.700000"
+                },
+                "goals": {
+                    "assists": 1,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 1,
+                    "total": 89
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 2,
+                    "in": 2,
+                    "out": 2
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": 4
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 32,
+            "birth": {
+                "country": "Senegal",
+                "date": "1992-04-10",
+                "place": "Sedhiou"
+            },
+            "firstname": "Sadio",
+            "height": "175 cm",
+            "id": 304,
+            "injured": false,
+            "lastname": "Man\u00e9",
+            "name": "S. Man\u00e9",
+            "nationality": "Senegal",
+            "photo": "https://media.api-sports.io/football/players/304.png",
+            "weight": "69 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 22,
+                    "past": null,
+                    "success": 12
+                },
+                "duels": {
+                    "total": 75,
+                    "won": 40
+                },
+                "fouls": {
+                    "committed": 11,
+                    "drawn": 9
+                },
+                "games": {
+                    "appearences": 9,
+                    "captain": false,
+                    "lineups": 6,
+                    "minutes": 551,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.077777"
+                },
+                "goals": {
+                    "assists": 1,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 3
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 8,
+                    "total": 196
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 10,
+                    "total": 14
+                },
+                "substitutes": {
+                    "bench": 3,
+                    "in": 3,
+                    "out": 2
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": 4,
+                    "total": 10
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 22,
+            "birth": {
+                "country": "Netherlands",
+                "date": "2002-05-16",
+                "place": "Amsterdam"
+            },
+            "firstname": "Ryan Jiro",
+            "height": "190 cm",
+            "id": 542,
+            "injured": false,
+            "lastname": "Gravenberch",
+            "name": "R. Gravenberch",
+            "nationality": "Netherlands",
+            "photo": "https://media.api-sports.io/football/players/542.png",
+            "weight": "83 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 4,
+                    "past": null,
+                    "success": 1
+                },
+                "duels": {
+                    "total": 34,
+                    "won": 15
+                },
+                "fouls": {
+                    "committed": 7,
+                    "drawn": 3
+                },
+                "games": {
+                    "appearences": 6,
+                    "captain": false,
+                    "lineups": 2,
+                    "minutes": 250,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.766666"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 5,
+                    "total": 138
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 2,
+                    "total": 4
+                },
+                "substitutes": {
+                    "bench": 8,
+                    "in": 4,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": 3,
+                    "total": 6
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 21,
+            "birth": {
+                "country": "Germany",
+                "date": "2003-01-13",
+                "place": null
+            },
+            "firstname": "Johannes",
+            "height": "191 cm",
+            "id": 203331,
+            "injured": false,
+            "lastname": "Schenk",
+            "name": "J. Schenk",
+            "nationality": "Germany",
+            "photo": "https://media.api-sports.io/football/players/203331.png",
+            "weight": "85 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": 0,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 6,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 21,
+            "birth": {
+                "country": "Croatia",
+                "date": "2003-03-03",
+                "place": null
+            },
+            "firstname": "Gabriel",
+            "height": "186 cm",
+            "id": 280428,
+            "injured": false,
+            "lastname": "Maru\u0161i\u0107",
+            "name": "G. Maru\u0161i\u0107",
+            "nationality": "Croatia",
+            "photo": "https://media.api-sports.io/football/players/280428.png",
+            "weight": "70 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 28,
+            "birth": {
+                "country": "France",
+                "date": "1996-06-13",
+                "place": "Paris"
+            },
+            "firstname": "Kingsley Junior",
+            "height": "181 cm",
+            "id": 508,
+            "injured": false,
+            "lastname": "Coman",
+            "name": "K. Coman",
+            "nationality": "France",
+            "photo": "https://media.api-sports.io/football/players/508.png",
+            "weight": "76 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 28,
+                    "past": null,
+                    "success": 17
+                },
+                "duels": {
+                    "total": 85,
+                    "won": 46
+                },
+                "fouls": {
+                    "committed": 1,
+                    "drawn": 12
+                },
+                "games": {
+                    "appearences": 7,
+                    "captain": false,
+                    "lineups": 7,
+                    "minutes": 538,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.214285"
+                },
+                "goals": {
+                    "assists": 1,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 1
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 15,
+                    "total": 251
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 5,
+                    "total": 10
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 0,
+                    "out": 5
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 2,
+                    "total": 11
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 25,
+            "birth": {
+                "country": "Germany",
+                "date": "1999-03-18",
+                "place": "M\u00fcnchen"
+            },
+            "firstname": "Adrian Markus",
+            "height": "186 cm",
+            "id": 24987,
+            "injured": false,
+            "lastname": "Fein",
+            "name": "A. Fein",
+            "nationality": "Germany",
+            "photo": "https://media.api-sports.io/football/players/24987.png",
+            "weight": "97 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": null,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": null,
+                    "saved": null,
+                    "scored": null,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 20,
+            "birth": {
+                "country": "Germany",
+                "date": "2004-02-10",
+                "place": null
+            },
+            "firstname": "Justin Pascal",
+            "height": "192 cm",
+            "id": 322507,
+            "injured": false,
+            "lastname": "Janitzek",
+            "name": "J. Janitzek",
+            "nationality": "Germany",
+            "photo": "https://media.api-sports.io/football/players/322507.png",
+            "weight": "80 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 23,
+            "birth": {
+                "country": "Netherlands",
+                "date": "2001-05-22",
+                "place": "Schiedam"
+            },
+            "firstname": "Joshua Orobosa",
+            "height": "193 cm",
+            "id": 70100,
+            "injured": false,
+            "lastname": "Zirkzee",
+            "name": "J. Zirkzee",
+            "nationality": "Netherlands",
+            "photo": "https://media.api-sports.io/football/players/70100.png",
+            "weight": "84 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": null,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": null,
+                    "saved": null,
+                    "scored": null,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 25,
+            "birth": {
+                "country": "Netherlands",
+                "date": "1999-08-12",
+                "place": "Leiderdorp"
+            },
+            "firstname": "Matthijs",
+            "height": "187 cm",
+            "id": 532,
+            "injured": false,
+            "lastname": "de Ligt",
+            "name": "M. de Ligt",
+            "nationality": "Netherlands",
+            "photo": "https://media.api-sports.io/football/players/532.png",
+            "weight": "89 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 1,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": 37,
+                    "won": 20
+                },
+                "fouls": {
+                    "committed": 8,
+                    "drawn": 4
+                },
+                "games": {
+                    "appearences": 7,
+                    "captain": false,
+                    "lineups": 7,
+                    "minutes": 615,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "7.142857"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 62,
+                    "key": null,
+                    "total": 472
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 0,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": 4,
+                    "interceptions": 10,
+                    "total": 5
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 27,
+            "birth": {
+                "country": "Netherlands",
+                "date": "1997-11-14",
+                "place": "Leiderdorp"
+            },
+            "firstname": "Noussair",
+            "height": "183 cm",
+            "id": 545,
+            "injured": false,
+            "lastname": "Mazraoui",
+            "name": "N. Mazraoui",
+            "nationality": "Morocco",
+            "photo": "https://media.api-sports.io/football/players/545.png",
+            "weight": "63 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 2,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 9,
+                    "past": null,
+                    "success": 6
+                },
+                "duels": {
+                    "total": 61,
+                    "won": 30
+                },
+                "fouls": {
+                    "committed": 10,
+                    "drawn": 3
+                },
+                "games": {
+                    "appearences": 5,
+                    "captain": false,
+                    "lineups": 4,
+                    "minutes": 393,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.900000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 45,
+                    "key": 1,
+                    "total": 267
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 1,
+                    "total": 3
+                },
+                "substitutes": {
+                    "bench": 5,
+                    "in": 1,
+                    "out": 2
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": 3,
+                    "total": 13
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 22,
+            "birth": {
+                "country": "France",
+                "date": "2002-06-07",
+                "place": "Paris"
+            },
+            "firstname": "Tanguy-Austin",
+            "height": "187 cm",
+            "id": 133110,
+            "injured": false,
+            "lastname": "Nianzou Kouassi",
+            "name": "T. Nianzou",
+            "nationality": "France",
+            "photo": "https://media.api-sports.io/football/players/133110.png",
+            "weight": "83 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 2,
+                    "past": null,
+                    "success": 2
+                },
+                "duels": {
+                    "total": 11,
+                    "won": 9
+                },
+                "fouls": {
+                    "committed": 1,
+                    "drawn": 2
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "7.000000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 43,
+                    "key": 1,
+                    "total": 95
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 1,
+                    "total": 2
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 2,
+                    "total": 2
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 34,
+            "birth": {
+                "country": "Netherlands",
+                "date": "1990-03-09",
+                "place": "Amsterdam"
+            },
+            "firstname": "Daley",
+            "height": "180 cm",
+            "id": 531,
+            "injured": false,
+            "lastname": "Blind",
+            "name": "D. Blind",
+            "nationality": "Netherlands",
+            "photo": "https://media.api-sports.io/football/players/531.png",
+            "weight": "72 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 4,
+                    "past": null,
+                    "success": 1
+                },
+                "duels": {
+                    "total": 46,
+                    "won": 25
+                },
+                "fouls": {
+                    "committed": 4,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.440000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 49,
+                    "key": 2,
+                    "total": 293
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": 2
+                },
+                "substitutes": {
+                    "bench": 4,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": 2,
+                    "interceptions": 4,
+                    "total": 17
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 21,
+            "birth": {
+                "country": "Germany",
+                "date": "2003-12-01",
+                "place": "Augsburg"
+            },
+            "firstname": "Gabriel",
+            "height": "180 cm",
+            "id": 280334,
+            "injured": false,
+            "lastname": "Vidovi\u0107",
+            "name": "G. Vidovi\u0107",
+            "nationality": "Croatia",
+            "photo": "https://media.api-sports.io/football/players/280334.png",
+            "weight": "75 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": null,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": null,
+                    "saved": null,
+                    "scored": null,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 19,
+            "birth": {
+                "country": "Austria",
+                "date": "2005-12-23",
+                "place": "Dornbirn"
+            },
+            "firstname": "Paul",
+            "height": "185 cm",
+            "id": 327895,
+            "injured": false,
+            "lastname": "Wanner",
+            "name": "P. Wanner",
+            "nationality": "Germany",
+            "photo": "https://media.api-sports.io/football/players/327895.png",
+            "weight": "72 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 2,
+                    "past": null,
+                    "success": 1
+                },
+                "duels": {
+                    "total": 4,
+                    "won": 2
+                },
+                "fouls": {
+                    "committed": 1,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 2,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 34,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.500000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 1,
+                    "total": 17
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 3,
+                    "in": 2,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 1,
+                    "total": null
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 30,
+            "birth": {
+                "country": "Austria",
+                "date": "1994-03-17",
+                "place": "Wels"
+            },
+            "firstname": "Marcel",
+            "height": "178 cm",
+            "id": 1159,
+            "injured": false,
+            "lastname": "Sabitzer",
+            "name": "M. Sabitzer",
+            "nationality": "Austria",
+            "photo": "https://media.api-sports.io/football/players/1159.png",
+            "weight": "76 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 3,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 1,
+                    "past": null,
+                    "success": 1
+                },
+                "duels": {
+                    "total": 37,
+                    "won": 24
+                },
+                "fouls": {
+                    "committed": 5,
+                    "drawn": 8
+                },
+                "games": {
+                    "appearences": 6,
+                    "captain": false,
+                    "lineups": 3,
+                    "minutes": 278,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.950000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 3,
+                    "total": 148
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 3,
+                    "total": 8
+                },
+                "substitutes": {
+                    "bench": 3,
+                    "in": 3,
+                    "out": 2
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": 5,
+                    "total": 10
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 21,
+            "birth": {
+                "country": "Germany",
+                "date": "2003-02-26",
+                "place": "Stuttgart"
+            },
+            "firstname": "Jamal",
+            "height": "184 cm",
+            "id": 181812,
+            "injured": false,
+            "lastname": "Musiala",
+            "name": "J. Musiala",
+            "nationality": "Germany",
+            "photo": "https://media.api-sports.io/football/players/181812.png",
+            "weight": "72 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 38,
+                    "past": null,
+                    "success": 24
+                },
+                "duels": {
+                    "total": 86,
+                    "won": 38
+                },
+                "fouls": {
+                    "committed": 6,
+                    "drawn": 9
+                },
+                "games": {
+                    "appearences": 9,
+                    "captain": false,
+                    "lineups": 7,
+                    "minutes": 534,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "6.688888"
+                },
+                "goals": {
+                    "assists": 2,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 14,
+                    "total": 216
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 5,
+                    "total": 7
+                },
+                "substitutes": {
+                    "bench": 2,
+                    "in": 2,
+                    "out": 7
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 6,
+                    "total": 4
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 19,
+            "birth": {
+                "country": "France",
+                "date": "2005-04-27",
+                "place": "Sarcelles"
+            },
+            "firstname": "Mathys Henri",
+            "height": "183 cm",
+            "id": 270510,
+            "injured": false,
+            "lastname": "Tel",
+            "name": "M. Tel",
+            "nationality": "France",
+            "photo": "https://media.api-sports.io/football/players/270510.png",
+            "weight": "77 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 2,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": 13,
+                    "won": 5
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": 1
+                },
+                "games": {
+                    "appearences": 5,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 141,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "6.600000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 2,
+                    "total": 40
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 1,
+                    "total": 6
+                },
+                "substitutes": {
+                    "bench": 10,
+                    "in": 5,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 3,
+                    "total": 1
+                },
+                "team": {
+                    "id": 157,
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "name": "Bayern M\u00fcnchen"
+                }
+            }
+        ]
+    }
+]

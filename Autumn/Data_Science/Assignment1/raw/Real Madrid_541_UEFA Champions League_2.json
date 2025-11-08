@@ -1,0 +1,1902 @@
+[
+    {
+        "player": {
+            "age": 32,
+            "birth": {
+                "country": "Belgium",
+                "date": "1991-01-07",
+                "place": "La Louvi\u00e8re"
+            },
+            "firstname": "Eden Michael Walter",
+            "height": "175 cm",
+            "id": 2296,
+            "injured": false,
+            "lastname": "Hazard",
+            "name": "E. Hazard",
+            "nationality": "Belgium",
+            "photo": "https://media.api-sports.io/football/players/2296.png",
+            "weight": "74 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 3,
+                    "past": null,
+                    "success": 2
+                },
+                "duels": {
+                    "total": 8,
+                    "won": 4
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": 2
+                },
+                "games": {
+                    "appearences": 3,
+                    "captain": false,
+                    "lineups": 1,
+                    "minutes": 131,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "6.733333"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 1
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 5,
+                    "total": 64
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 1,
+                    "total": 2
+                },
+                "substitutes": {
+                    "bench": 10,
+                    "in": 2,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 1,
+                    "total": null
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 31,
+            "birth": {
+                "country": "Spain",
+                "date": "1993-08-01",
+                "place": "Barcelona"
+            },
+            "firstname": "Mariano",
+            "height": "180 cm",
+            "id": 760,
+            "injured": false,
+            "lastname": "D\u00edaz Mej\u00eda",
+            "name": "M. D\u00edaz",
+            "nationality": "Dominican Republic",
+            "photo": "https://media.api-sports.io/football/players/760.png",
+            "weight": "76 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 1,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 5,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "6.200000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": 4
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 10,
+                    "in": 1,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 34,
+            "birth": {
+                "country": "Germany",
+                "date": "1990-01-04",
+                "place": "Greifswald"
+            },
+            "firstname": "Toni",
+            "height": "183 cm",
+            "id": 752,
+            "injured": false,
+            "lastname": "Kroos",
+            "name": "T. Kroos",
+            "nationality": "Germany",
+            "photo": "https://media.api-sports.io/football/players/752.png",
+            "weight": "76 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 2,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 3,
+                    "past": null,
+                    "success": 2
+                },
+                "duels": {
+                    "total": 60,
+                    "won": 41
+                },
+                "fouls": {
+                    "committed": 6,
+                    "drawn": 11
+                },
+                "games": {
+                    "appearences": 12,
+                    "captain": false,
+                    "lineups": 10,
+                    "minutes": 846,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "7.281818"
+                },
+                "goals": {
+                    "assists": 2,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 68,
+                    "key": 17,
+                    "total": 874
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 1,
+                    "total": 6
+                },
+                "substitutes": {
+                    "bench": 2,
+                    "in": 2,
+                    "out": 6
+                },
+                "tackles": {
+                    "blocks": 2,
+                    "interceptions": 9,
+                    "total": 26
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 23,
+            "birth": {
+                "country": "Spain",
+                "date": "2001-09-30",
+                "place": "Madrid"
+            },
+            "firstname": "Sergio",
+            "height": "173 cm",
+            "id": 162033,
+            "injured": false,
+            "lastname": "Arribas Calvo",
+            "name": "Sergio Arribas",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/162033.png",
+            "weight": "64 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 2,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 23,
+            "birth": {
+                "country": "Spain",
+                "date": "2001-03-15",
+                "place": "Madrid"
+            },
+            "firstname": "Carlos",
+            "height": "180 cm",
+            "id": 162034,
+            "injured": false,
+            "lastname": "Dotor Gonz\u00e1lez",
+            "name": "Carlos Dotor",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/162034.png",
+            "weight": "68 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 23,
+            "birth": {
+                "country": "Spain",
+                "date": "2001-05-08",
+                "place": "Murcia"
+            },
+            "firstname": "Luis Federico",
+            "height": "193 cm",
+            "id": 162529,
+            "injured": false,
+            "lastname": "L\u00f3pez And\u00fagar",
+            "name": "Luis L\u00f3pez",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/162529.png",
+            "weight": "76 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": 1,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 9,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 34,
+            "birth": {
+                "country": "Spain",
+                "date": "1990-01-18",
+                "place": "Madrid"
+            },
+            "firstname": "Jos\u00e9 Ignacio",
+            "height": "180 cm",
+            "id": 735,
+            "injured": false,
+            "lastname": "Fern\u00e1ndez Iglesias",
+            "name": "Nacho",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/735.png",
+            "weight": "76 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 1,
+                    "past": null,
+                    "success": 1
+                },
+                "duels": {
+                    "total": 40,
+                    "won": 23
+                },
+                "fouls": {
+                    "committed": 5,
+                    "drawn": 6
+                },
+                "games": {
+                    "appearences": 8,
+                    "captain": false,
+                    "lineups": 4,
+                    "minutes": 437,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.942857"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 5,
+                    "total": 282
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 1,
+                    "total": 1
+                },
+                "substitutes": {
+                    "bench": 8,
+                    "in": 4,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": 4,
+                    "interceptions": 17,
+                    "total": 9
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 37,
+            "birth": {
+                "country": "France",
+                "date": "1987-12-19",
+                "place": "Lyon"
+            },
+            "firstname": "Karim Mostafa",
+            "height": "185 cm",
+            "id": 759,
+            "injured": false,
+            "lastname": "Benzema",
+            "name": "K. Benzema",
+            "nationality": "France",
+            "photo": "https://media.api-sports.io/football/players/759.png",
+            "weight": "81 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 16,
+                    "past": null,
+                    "success": 7
+                },
+                "duels": {
+                    "total": 45,
+                    "won": 14
+                },
+                "fouls": {
+                    "committed": 4,
+                    "drawn": 2
+                },
+                "games": {
+                    "appearences": 10,
+                    "captain": false,
+                    "lineups": 9,
+                    "minutes": 747,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.190000"
+                },
+                "goals": {
+                    "assists": 1,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 4
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 18,
+                    "total": 313
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 19,
+                    "total": 26
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 1,
+                    "out": 4
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": 2
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 22,
+            "birth": {
+                "country": "Spain",
+                "date": "2002-05-10",
+                "place": "Valencia"
+            },
+            "firstname": "Lucas",
+            "height": "188 cm",
+            "id": 206260,
+            "injured": false,
+            "lastname": "Ca\u00f1izares Conchello",
+            "name": "Lucas Ca\u00f1izares",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/206260.png",
+            "weight": "81 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 0,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": null
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": null
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": 0,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 2,
+                    "in": 0,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": null
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 23,
+            "birth": {
+                "country": "Brazil",
+                "date": "2001-01-09",
+                "place": "Osasco"
+            },
+            "firstname": "Rodrygo",
+            "height": "174 cm",
+            "id": 10009,
+            "injured": false,
+            "lastname": "Silva de Goes",
+            "name": "Rodrygo",
+            "nationality": "Brazil",
+            "photo": "https://media.api-sports.io/football/players/10009.png",
+            "weight": "64 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 32,
+                    "past": null,
+                    "success": 14
+                },
+                "duels": {
+                    "total": 86,
+                    "won": 38
+                },
+                "fouls": {
+                    "committed": 4,
+                    "drawn": 12
+                },
+                "games": {
+                    "appearences": 12,
+                    "captain": false,
+                    "lineups": 10,
+                    "minutes": 824,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.333333"
+                },
+                "goals": {
+                    "assists": 2,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 5
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 13,
+                    "total": 351
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 2,
+                    "won": null
+                },
+                "shots": {
+                    "on": 12,
+                    "total": 20
+                },
+                "substitutes": {
+                    "bench": 2,
+                    "in": 2,
+                    "out": 8
+                },
+                "tackles": {
+                    "blocks": 4,
+                    "interceptions": 9,
+                    "total": 7
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 24,
+            "birth": {
+                "country": "Brazil",
+                "date": "2000-07-12",
+                "place": "S\u00e3o Gon\u00e7alo"
+            },
+            "firstname": "Vin\u00edcius Jos\u00e9",
+            "height": "176 cm",
+            "id": 762,
+            "injured": false,
+            "lastname": "Paix\u00e3o de Oliveira J\u00fanior",
+            "name": "Vin\u00edcius J\u00fanior",
+            "nationality": "Brazil",
+            "photo": "https://media.api-sports.io/football/players/762.png",
+            "weight": "73 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 1,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 96,
+                    "past": null,
+                    "success": 47
+                },
+                "duels": {
+                    "total": 174,
+                    "won": 86
+                },
+                "fouls": {
+                    "committed": 11,
+                    "drawn": 28
+                },
+                "games": {
+                    "appearences": 12,
+                    "captain": false,
+                    "lineups": 11,
+                    "minutes": 975,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.133333"
+                },
+                "goals": {
+                    "assists": 5,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 7
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 18,
+                    "total": 406
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 21,
+                    "total": 31
+                },
+                "substitutes": {
+                    "bench": 1,
+                    "in": 1,
+                    "out": 4
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 1,
+                    "total": 10
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 28,
+            "birth": {
+                "country": "Spain",
+                "date": "1996-08-07",
+                "place": "Sevilla"
+            },
+            "firstname": "Daniel",
+            "height": "179 cm",
+            "id": 748,
+            "injured": false,
+            "lastname": "Ceballos Fern\u00e1ndez",
+            "name": "Dani Ceballos",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/748.png",
+            "weight": "70 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 7,
+                    "past": null,
+                    "success": 5
+                },
+                "duels": {
+                    "total": 18,
+                    "won": 13
+                },
+                "fouls": {
+                    "committed": 2,
+                    "drawn": 4
+                },
+                "games": {
+                    "appearences": 7,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 80,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.842857"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 1,
+                    "total": 86
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 2,
+                    "total": 2
+                },
+                "substitutes": {
+                    "bench": 9,
+                    "in": 7,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": null,
+                    "total": 4
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 33,
+            "birth": {
+                "country": "Spain",
+                "date": "1991-07-01",
+                "place": "Curtis"
+            },
+            "firstname": "Lucas",
+            "height": "173 cm",
+            "id": 757,
+            "injured": false,
+            "lastname": "V\u00e1zquez Iglesias",
+            "name": "Lucas V\u00e1zquez",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/757.png",
+            "weight": "70 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 1,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 5,
+                    "past": null,
+                    "success": 2
+                },
+                "duels": {
+                    "total": 20,
+                    "won": 10
+                },
+                "fouls": {
+                    "committed": 3,
+                    "drawn": 4
+                },
+                "games": {
+                    "appearences": 5,
+                    "captain": false,
+                    "lineups": 2,
+                    "minutes": 198,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.700000"
+                },
+                "goals": {
+                    "assists": 1,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 4,
+                    "total": 133
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 9,
+                    "in": 3,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 3,
+                    "total": 4
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 24,
+            "birth": {
+                "country": "France",
+                "date": "2000-01-27",
+                "place": "Rouen"
+            },
+            "firstname": "Aur\u00e9lien Djani",
+            "height": "187 cm",
+            "id": 1271,
+            "injured": false,
+            "lastname": "Tchouam\u00e9ni",
+            "name": "A. Tchouam\u00e9ni",
+            "nationality": "France",
+            "photo": "https://media.api-sports.io/football/players/1271.png",
+            "weight": "81 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 4,
+                    "past": null,
+                    "success": 3
+                },
+                "duels": {
+                    "total": 39,
+                    "won": 24
+                },
+                "fouls": {
+                    "committed": 5,
+                    "drawn": 5
+                },
+                "games": {
+                    "appearences": 10,
+                    "captain": false,
+                    "lineups": 5,
+                    "minutes": 431,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.900000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": 375
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 2,
+                    "total": 7
+                },
+                "substitutes": {
+                    "bench": 5,
+                    "in": 5,
+                    "out": 3
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 7,
+                    "total": 10
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 39,
+            "birth": {
+                "country": "Croatia",
+                "date": "1985-09-09",
+                "place": "Zadar"
+            },
+            "firstname": "Luka",
+            "height": "172 cm",
+            "id": 754,
+            "injured": false,
+            "lastname": "Modri\u0107",
+            "name": "L. Modri\u0107",
+            "nationality": "Croatia",
+            "photo": "https://media.api-sports.io/football/players/754.png",
+            "weight": "66 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 17,
+                    "past": null,
+                    "success": 10
+                },
+                "duels": {
+                    "total": 49,
+                    "won": 26
+                },
+                "fouls": {
+                    "committed": 3,
+                    "drawn": 6
+                },
+                "games": {
+                    "appearences": 10,
+                    "captain": false,
+                    "lineups": 9,
+                    "minutes": 750,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "7.050000"
+                },
+                "goals": {
+                    "assists": 1,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 2
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 51,
+                    "key": 9,
+                    "total": 576
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 1,
+                    "won": null
+                },
+                "shots": {
+                    "on": 3,
+                    "total": 6
+                },
+                "substitutes": {
+                    "bench": 2,
+                    "in": 1,
+                    "out": 8
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": 7,
+                    "total": 4
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 26,
+            "birth": {
+                "country": "Uruguay",
+                "date": "1998-07-22",
+                "place": "Montevideo"
+            },
+            "firstname": "Federico Santiago",
+            "height": "182 cm",
+            "id": 756,
+            "injured": false,
+            "lastname": "Valverde Dipetta",
+            "name": "F. Valverde",
+            "nationality": "Uruguay",
+            "photo": "https://media.api-sports.io/football/players/756.png",
+            "weight": "78 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 18,
+                    "past": null,
+                    "success": 11
+                },
+                "duels": {
+                    "total": 81,
+                    "won": 41
+                },
+                "fouls": {
+                    "committed": 10,
+                    "drawn": 5
+                },
+                "games": {
+                    "appearences": 11,
+                    "captain": false,
+                    "lineups": 11,
+                    "minutes": 968,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "7.409090"
+                },
+                "goals": {
+                    "assists": 3,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 2
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 45,
+                    "key": 19,
+                    "total": 554
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 8,
+                    "total": 18
+                },
+                "substitutes": {
+                    "bench": 0,
+                    "in": 0,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": 14,
+                    "total": 18
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 22,
+            "birth": {
+                "country": "Angola",
+                "date": "2002-11-10",
+                "place": "Cabinda"
+            },
+            "firstname": "Eduardo",
+            "height": "182 cm",
+            "id": 2207,
+            "injured": false,
+            "lastname": "Celmi Camavinga",
+            "name": "E. Camavinga",
+            "nationality": "France",
+            "photo": "https://media.api-sports.io/football/players/2207.png",
+            "weight": "68 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 3,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 9,
+                    "past": null,
+                    "success": 7
+                },
+                "duels": {
+                    "total": 100,
+                    "won": 52
+                },
+                "fouls": {
+                    "committed": 14,
+                    "drawn": 16
+                },
+                "games": {
+                    "appearences": 11,
+                    "captain": false,
+                    "lineups": 8,
+                    "minutes": 720,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.700000"
+                },
+                "goals": {
+                    "assists": 1,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 6,
+                    "total": 440
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 1,
+                    "total": 3
+                },
+                "substitutes": {
+                    "bench": 4,
+                    "in": 3,
+                    "out": 3
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 6,
+                    "total": 26
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 29,
+            "birth": {
+                "country": "France",
+                "date": "1995-06-08",
+                "place": "Meulan-En-Yvelines"
+            },
+            "firstname": "Ferland Sinna",
+            "height": "180 cm",
+            "id": 653,
+            "injured": false,
+            "lastname": "Mendy",
+            "name": "F. Mendy",
+            "nationality": "France",
+            "photo": "https://media.api-sports.io/football/players/653.png",
+            "weight": "73 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 1,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": 3,
+                    "past": null,
+                    "success": 2
+                },
+                "duels": {
+                    "total": 17,
+                    "won": 10
+                },
+                "fouls": {
+                    "committed": 3,
+                    "drawn": 4
+                },
+                "games": {
+                    "appearences": 5,
+                    "captain": false,
+                    "lineups": 4,
+                    "minutes": 347,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.780000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": 54,
+                    "key": 3,
+                    "total": 283
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": 1
+                },
+                "substitutes": {
+                    "bench": 4,
+                    "in": 1,
+                    "out": 1
+                },
+                "tackles": {
+                    "blocks": null,
+                    "interceptions": 3,
+                    "total": 3
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 31,
+            "birth": {
+                "country": "Germany",
+                "date": "1993-03-03",
+                "place": "Berlin"
+            },
+            "firstname": "Antonio",
+            "height": "190 cm",
+            "id": 2285,
+            "injured": false,
+            "lastname": "R\u00fcdiger",
+            "name": "A. R\u00fcdiger",
+            "nationality": "Germany",
+            "photo": "https://media.api-sports.io/football/players/2285.png",
+            "weight": "85 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": 28,
+                    "won": 20
+                },
+                "fouls": {
+                    "committed": 3,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 10,
+                    "captain": false,
+                    "lineups": 6,
+                    "minutes": 674,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.850000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 1
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": 2,
+                    "total": 401
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": 1,
+                    "total": 6
+                },
+                "substitutes": {
+                    "bench": 6,
+                    "in": 4,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": 2,
+                    "interceptions": 6,
+                    "total": 10
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "age": 27,
+            "birth": {
+                "country": "Spain",
+                "date": "1997-01-05",
+                "place": "Zaragoza"
+            },
+            "firstname": "Jes\u00fas",
+            "height": "184 cm",
+            "id": 741,
+            "injured": false,
+            "lastname": "Vallejo L\u00e1zaro",
+            "name": "Jes\u00fas Vallejo",
+            "nationality": "Spain",
+            "photo": "https://media.api-sports.io/football/players/741.png",
+            "weight": "79 kg"
+        },
+        "statistics": [
+            {
+                "cards": {
+                    "red": 0,
+                    "yellow": 0,
+                    "yellowred": 0
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "past": null,
+                    "success": null
+                },
+                "duels": {
+                    "total": 3,
+                    "won": 2
+                },
+                "fouls": {
+                    "committed": null,
+                    "drawn": null
+                },
+                "games": {
+                    "appearences": 1,
+                    "captain": false,
+                    "lineups": 0,
+                    "minutes": 17,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.900000"
+                },
+                "goals": {
+                    "assists": null,
+                    "conceded": 0,
+                    "saves": null,
+                    "total": 0
+                },
+                "league": {
+                    "country": "World",
+                    "flag": null,
+                    "id": 2,
+                    "logo": "https://media.api-sports.io/football/leagues/2.png",
+                    "name": "UEFA Champions League",
+                    "season": 2022
+                },
+                "passes": {
+                    "accuracy": null,
+                    "key": null,
+                    "total": 17
+                },
+                "penalty": {
+                    "commited": null,
+                    "missed": 0,
+                    "saved": null,
+                    "scored": 0,
+                    "won": null
+                },
+                "shots": {
+                    "on": null,
+                    "total": null
+                },
+                "substitutes": {
+                    "bench": 11,
+                    "in": 1,
+                    "out": 0
+                },
+                "tackles": {
+                    "blocks": 1,
+                    "interceptions": null,
+                    "total": 2
+                },
+                "team": {
+                    "id": 541,
+                    "logo": "https://media.api-sports.io/football/teams/541.png",
+                    "name": "Real Madrid"
+                }
+            }
+        ]
+    }
+]
