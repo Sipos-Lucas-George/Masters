@@ -1,0 +1,8 @@
+roll
+dice,1,2
+pip
+test test2
+hint
+roll
+roll
+q
