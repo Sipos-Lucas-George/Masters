@@ -1,0 +1,11 @@
+# Ignore all .gitignore files
+**/.gitignore
+
+# Exclude the main one (root level)
+!/.gitignore
+
+.DS_Store
+.idea
+out
+*.iml
+*pom.xml
