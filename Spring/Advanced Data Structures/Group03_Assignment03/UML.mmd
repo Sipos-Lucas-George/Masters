@@ -1,0 +1,112 @@
+classDiagram
+    direction LR
+
+    %% ============== 
+    %% Heap ADT 
+    %% ============== 
+    class Heap~T~ {
+        - heap: ArrayList~T~
+        - comparator: Comparator~T~
+        + Heap()
+        + Heap(comparator: Comparator~T~)
+        + insert(value: T) void
+        + popMin() T
+        + peek() T
+        + changeValue(index: int, newValue: T) void
+        + size() int
+        + isEmpty() boolean
+        - heapifyUp(index: int)
+        - heapifyDown(index: int)
+        - swap(i: int, j: int)
+    }
+
+    Heap~T~ "1" --> "1" Comparator~T~ : uses
+
+    class Comparator~T~ {
+        <<Interface>>
+        + compare(a: T, b: T) int
+    }
+
+    %% ============== 
+    %% Scheduler
+    %% ============== 
+    class EventScheduler {
+        - eventHeap: Heap~Event~
+        + EventScheduler()
+        + scheduleEvent(timestamp: int, description: String) void
+        + runScheduler(k: int) List~Event~
+        + getNextEvent() Event
+        + hasEvents() boolean
+    }
+
+    EventScheduler "1" --> "1" Heap~Event~ : uses
+    EventScheduler "1" --> "0..*" Event : schedules
+
+    class Event {
+        - timestamp: int
+        - description: String
+        - id: int
+        + eventCounter: int
+        + Event(timestamp: int, description: String)
+        + getTimestamp() int
+        + getDescription() String
+        + compareTo(other: Event) int
+        + toString() String
+    }
+
+    Event "1" --> "1" Comparable~Event~ : implements
+
+    class Comparable~T~ {
+        <<Interface>>
+        + compareTo(other: T) int
+    }
+
+    %% ============== 
+    %% Tests
+    %% ============== 
+    class HeapTest {
+        + testIsEmpty()
+        + testInsertAndPeek()
+        + testExtractMin()
+        + testChangeValue()
+        + testHeapWithCustomComparator()
+        + testExtractMinOnEmptyHeap()
+        + testPeekOnEmptyHeap()
+        + testChangeValueOutOfBounds()
+        + stressTest()
+    }
+
+    HeapTest "1" --> "1" Heap~Integer~ : tests
+
+    class EventSchedulerTest {
+        + testEmptyScheduler()
+        + testSingleEvent()
+        + testLargeTimestamp()
+        + testMultipleEventsOrder()
+        + testEventSchedulerNegativeTimestamp()
+        + testBatchProcessing()
+        + testSequentialIdenticalEvents()
+        + testRunSchedulerWithNegativeK()
+        + testRunSchedulerLimitK()
+        + stressTestScheduler()
+    }
+
+    EventSchedulerTest "1" --> "1" EventScheduler : tests
+
+    class RealLifeScenarioCSVTest {
+        + main(args: String[]) void
+    }
+
+    RealLifeScenarioCSVTest "1" --> "1" EventScheduler : tests
+
+    class SchedulerStressTest {
+        + main(args: String[]) void
+    }
+
+    SchedulerStressTest "1" --> "1" EventScheduler : tests
+
+    class DynamicArrivalTest {
+        + testDynamicEventArrival()
+    }
+
+    DynamicArrivalTest "1" --> "1" EventScheduler : tests

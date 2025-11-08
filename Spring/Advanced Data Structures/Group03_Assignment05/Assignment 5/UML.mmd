@@ -1,0 +1,127 @@
+classDiagram
+    %% ===== adt Package =====
+    class Graph~T~ {
+      - boolean isDirected
+      - boolean isWeighted
+      - Map<T, Set<T>> unweightedAdjList
+      - Map<T, Map<T, Double>> weightedAdjList
+      + Graph(isDirected: boolean, isWeighted: boolean)
+      + addVertex(vertex: T)
+      + addEdge(from: T, to: T, weight: double)
+      + addEdge(from: T, to: T)
+      + removeEdge(from: T, to: T)
+      + removeVertex(vertex: T)
+      + getNeighbors(vertex: T): Set<T>
+      + hasEdge(from: T, to: T): boolean
+      + getWeight(from: T, to: T): double
+      + getVertices(): Set<T>
+      + getEdgeCount(): int
+      + getVertexCount(): int
+      + isDirected(): boolean
+      + isWeighted(): boolean
+      + toString(): String
+    }
+
+    %% ===== route_optimisation_logistics Package =====
+    class Dijkstra {
+      + shortestPaths(graph: Graph~T~, source: T): Map<T, Double>
+      + shortestPathsWithPredecessors(graph: Graph~T~, source: T): DijkstraResult~T~
+    }
+
+    class DijkstraResult~T~ {
+      - Map<T, Double> distances
+      - Map<T, T> predecessors
+      + DijkstraResult(distances: Map<T, Double>, predecessors: Map<T, T>)
+      + getDistances(): Map<T, Double>
+      + getPredecessors(): Map<T, T>
+    }
+
+    class Location {
+      - String name
+      + Location(name: String)
+      + getName(): String
+      + toString(): String
+      + equals(o: Object): boolean
+      + hashCode(): int
+    }
+
+    class LogisticsNetwork {
+      - Graph~Location~ graph
+      + LogisticsNetwork()
+      + addLocation(name: String)
+      + connectLocations(from: String, to: String, distance: double)
+      + getGraph(): Graph~Location~
+      + toString(): String
+    }
+
+    class RoutePlanner {
+      - Graph~Location~ graph
+      + RoutePlanner(graph: Graph~Location~)
+      + findShortestRoute(fromName: String, toName: String)
+    }
+
+    %% ===== utils Package =====
+    class CSVExporter {
+      + saveEdgesToCSV(edges: List<Edge>, filename: String)
+    }
+
+    class CSVImporter {
+      + importEdges(csvFile: String, network: LogisticsNetwork)
+    }
+
+    class CityGenerator {
+      + generateCities(n: int, naming: String): List<String>
+    }
+
+    class DatasetGeneratorApp {
+      + main(args: String[])
+    }
+
+    class Edge {
+      - String city1
+      - String city2
+      - double distance
+      + Edge(city1: String, city2: String, distance: double)
+      + getCity1(): String
+      + getCity2(): String
+      + getDistance(): double
+      + toString(): String
+    }
+
+    class EdgeGenerator {
+      + generateEdges(cities: List<String>, minWeight: double, maxWeight: double, maxExtraEdges: int): List<Edge>
+    }
+
+    class TimerUtil {
+      + measure(task: Runnable): long
+    }
+
+    %% ===== tests Package =====
+    class RealLifeScenarioTest {
+      + main(args: String[])
+    }
+
+    %% ===== Relationships =====
+
+    %% route_optimisation_logistics relationships
+    LogisticsNetwork *-- "1" Graph~Location~
+    RoutePlanner *-- "1" Graph~Location~
+    Dijkstra ..> Graph~T~
+    Dijkstra ..> DijkstraResult~T~
+    RoutePlanner ..> Dijkstra
+    LogisticsNetwork ..> Location
+    RoutePlanner ..> Location
+
+    %% utils dependencies
+    CSVExporter ..> Edge
+    CSVImporter ..> LogisticsNetwork
+    DatasetGeneratorApp ..> CityGenerator
+    DatasetGeneratorApp ..> EdgeGenerator
+    DatasetGeneratorApp ..> CSVExporter
+    EdgeGenerator ..> Edge
+
+    %% tests dependencies
+    RealLifeScenarioTest ..> LogisticsNetwork
+    RealLifeScenarioTest ..> CSVImporter
+    RealLifeScenarioTest ..> TimerUtil
+    RealLifeScenarioTest ..> RoutePlanner

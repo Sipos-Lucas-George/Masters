@@ -1,0 +1,115 @@
+classDiagram
+    %% -------------------------
+    %% Package: adt
+    %% -------------------------
+    class HashTable~K,V~ {
+        -Entry~K,V~[] table
+        -int capacity
+        -int size
+        -double loadFactorThreshold
+        +HashTable()
+        -hash(K key) int
+        +put(K key, V value) void
+        +get(K key) V
+        +remove(K key) V
+        -resize() void
+        +size() int
+        +capacity() int
+    }
+
+    class Entry~K,V~ {
+        +K key
+        +V value
+        +Entry~K,V~ next
+        +Entry(K key, V value)
+    }
+
+    HashTable "1" *-- "many" Entry~K,V~ : contains
+
+    %% -------------------------
+    %% Package: record_system
+    %% -------------------------
+    class Student {
+        +String name
+        +boolean gender
+        +int age
+        +String address
+        +String phoneNumber
+        +String email
+        +Student(name, gender, age, address, phoneNumber, email)
+        +toString() String
+        +compareTo(Student) int
+    }
+
+    class StudentRecordSystem {
+        -HashTable~String, Student~ studentTable
+        +StudentRecordSystem()
+        +addStudent(String code, Student student) void
+        +removeStudent(String code) Student
+        +findStudent(String code) Student
+        +getTotalStudents() int
+    }
+
+    %% Interface definition
+    class Comparable~T~ {
+        <<interface>>
+        +compareTo(T o) int
+    }
+
+    Student ..|> Comparable : implements
+    StudentRecordSystem "1" *-- "1" HashTable : contains
+    StudentRecordSystem "1" o-- "many" Student : manages
+
+    %% -------------------------
+    %% Package: util
+    %% -------------------------
+    class StudentCSVReader {
+        +static loadFromCSV(String csvFilePath) StudentRecordSystem
+    }
+    StudentCSVReader ..> StudentRecordSystem : creates
+    StudentCSVReader ..> Student : creates
+
+    %% -------------------------
+    %% Package: tests
+    %% -------------------------
+    class HashTableTest {
+        +void setUp()
+        +void testPutAndGetSingleElement()
+        +void testUpdateValueForExistingKey()
+        +void testRemoveExistingKey()
+        +void testRemoveNonExistentKey()
+        +void testGetFromEmptyTable()
+        +void testCollisionHandling()
+        +void testResize()
+        +void testNullKeyHandling()
+        +void testNullValueHandling()
+        +void testLargeInsertionsPerformanceAndCorrectness()
+        +void testDuplicateKeysWithDifferentValues()
+        +void testMultipleRemovals()
+    }
+    HashTableTest ..> HashTable : tests
+
+    class RealLifeStudentRecordCSVTest {
+        +static void main(String[] args)
+    }
+    RealLifeStudentRecordCSVTest ..> StudentRecordSystem : tests
+    RealLifeStudentRecordCSVTest ..> Student : tests
+    RealLifeStudentRecordCSVTest ..> StudentCSVReader : uses
+
+    class StudentRecordStressTest {
+        +static void main(String[] args)
+    }
+    StudentRecordStressTest ..> StudentRecordSystem : tests
+    StudentRecordStressTest ..> Student : tests
+
+    class StudentRecordSystemTest {
+        +void setUp()
+        +void testAddAndFindStudent()
+        +void testUpdateStudentRecord()
+        +void testRemoveStudent()
+        +void testRemoveNonExistentStudent()
+        +void testMultipleAdditionsAndRemovals()
+        +void testStressStudentRecordSystem()
+    }
+    StudentRecordSystemTest ..> StudentRecordSystem : tests
+    StudentRecordSystemTest ..> Student : tests

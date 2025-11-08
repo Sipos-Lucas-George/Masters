@@ -1,0 +1,86 @@
+classDiagram
+    direction LR
+
+    %% ==============
+    %% ADT
+    %% ==============
+    class MyStack~T~ {
+        - top: Node~T~
+        - size: int
+        + MyStack()
+        + push(element: T) void
+        + pop() T
+        + peek() T
+        + isEmpty() boolean
+        + size() int
+    }
+
+    %% ==============
+    %% ADT Subclass
+    %% ==============
+    class Node~T~ {
+        ~ data: T
+        ~ next: Node~T~
+        ~ Node(data: T)
+    }
+    MyStack~T~ *-- Node~T~
+
+    %% ==============
+    %% Interface
+    %% ==============
+    class BrowserNavigation {
+        <<Interface>>
+        ~ visitPage(url: String)
+        ~ back()
+        ~ forward()
+        ~ toString() String
+    }
+
+    %% ==============
+    %% Implementations
+    %% ==============
+    class BrowserNavigationStack {
+        - backStack: MyStack~String~
+        - forwardStack: MyStack~String~
+        - currentPage: String
+        + visitPage(url: String)
+        + back()
+        + forward()
+        + toString() String
+    }
+    BrowserNavigationStack --> MyStack : uses
+    BrowserNavigationStack --|> BrowserNavigation : implements
+
+    class BrowserNavigationList {
+        - backList: LinkedList~String~
+        - forwardList: LinkedList~String~
+        - currentPage: String
+        + visitPage(url: String)
+        + back()
+        + forward()
+        + toString() String
+    }
+    BrowserNavigationList --|> BrowserNavigation : implements
+
+    %% ==============
+    %% Abstract Test
+    %% ==============
+    class AbstractBrowserNavigationTest {
+        <<Abstract>>
+        # browser: BrowserNavigation
+        # createBrowser()* BrowserNavigation
+        + test*()  %% indicates multiple test methods
+    }
+
+    %% ==============
+    %% Concrete Tests
+    %% ==============
+    class BrowserNavigationStackTest {
+        + createBrowser() BrowserNavigation
+    }
+    BrowserNavigationStackTest --|> AbstractBrowserNavigationTest : extends
+
+    class BrowserNavigationListTest {
+        + createBrowser() BrowserNavigation
+    }
+    BrowserNavigationListTest --|> AbstractBrowserNavigationTest : extends

@@ -1,0 +1,82 @@
+classDiagram
+    direction LR
+ 
+    %% ==============
+    %% Huffman Compression
+    %% ==============
+    class HuffmanCompressor {
+        + main(args: String[])
+        - compressMenu(scanner: Scanner)
+        - decompressMenu(scanner: Scanner)
+        - getFileChoice(scanner: Scanner, max: int) int
+        - postOperationMenu(scanner: Scanner)
+        - compressFile(fileName: String)
+        - decompressFile(compressedFileName: String)
+    }
+ 
+    %% ==============
+    %% Huffman Tree
+    %% ==============
+    class HuffmanTree~T~ {
+        - root: HuffmanNode~T~
+        + HuffmanTree(frequencyMap: Map~T, Integer~)
+        - buildTree(frequencyMap: Map~T, Integer~) HuffmanNode~T~
+        + generateCodes() Map~T, String~
+        - generateCodesHelper(node: HuffmanNode~T~, code: String, codes: Map~T, String~)
+        + printLevelOrder()
+        + getRoot() HuffmanNode~T~
+    }
+ 
+    class HuffmanNode~T~ {
+        + symbol: T
+        + frequency: int
+        + left: HuffmanNode~T~
+        + right: HuffmanNode~T~
+        + HuffmanNode(symbol: T, frequency: int)
+        + HuffmanNode(frequency: int, left: HuffmanNode~T~, right: HuffmanNode~T~)
+        + isLeaf() boolean
+        + compareTo(other: HuffmanNode~T~) int
+    }
+    HuffmanTree~T~ *-- HuffmanNode~T~
+ 
+    %% ==============
+    %% Huffman Header
+    %% ==============
+    class HuffmanHeader {
+        - frequencies: Map~Byte, Integer~
+        - bitLength: int
+        - headerByteLength: int
+        + HuffmanHeader(frequencies: Map~Byte, Integer~, bitLength: int, headerByteLength: int)
+        + getFrequencies() Map~Byte, Integer~
+        + getBitLength() int
+        + getHeaderByteLength() int
+        + createHeader(frequencies: Map~Byte, Integer~, bitLength: int) byte[]
+        + parseHeader(fileData: byte[]) HuffmanHeader
+    }
+ 
+    %% ==============
+    %% Utility Classes
+    %% ==============
+    class FrequencyAnalyser {
+        + getFrequencies(data: byte[]) Map~Byte, Integer~
+    }
+ 
+    class FileUtils {
+        + readFile(fileName: String) byte[]
+        + writeFile(fileName: String, data: byte[])
+        + deleteFile(fileName: String)
+    }
+ 
+    class BinaryUtils {
+        + binaryStringToByteArray(binary: String) byte[]
+        + byteArrayToBinaryString(bytes: byte[], bitLength: int) String
+    }
+ 
+    %% ==============
+    %% Associations
+    %% ==============
+    HuffmanCompressor --> HuffmanTree~Byte~ : uses
+    HuffmanCompressor --> HuffmanHeader : uses
+    HuffmanCompressor --> FrequencyAnalyser : uses
+    HuffmanCompressor --> FileUtils : uses
+    HuffmanCompressor --> BinaryUtils : uses

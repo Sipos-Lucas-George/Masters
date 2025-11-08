@@ -1,0 +1,32 @@
+TO BE OR NOT TO BE
+I LIKE BEN AND JERRYS COOKIE DOUGH ICE CREAM
+WISDOM TOOTHACHES SUCK
+
+TEST 123 TEST 123
+
+:)
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Vulputate vehicula viverra venenatis; nam integer nostra fringilla accumsan maecenas. Per ex neque quam nulla quisque adipiscing interdum aliquam. Quam tristique integer dictum ultrices montes quis maximus ipsum quam. Taciti vestibulum laoreet eu nunc nunc. Amet magnis platea eleifend malesuada finibus. Turpis orci fusce vestibulum ultricies sociosqu sociosqu cras nascetur non. Amet dolor in bibendum odio odio netus vel nisl.
+
+Parturient rutrum accumsan felis class tristique porta lacus. Primis donec dictumst proin mauris lorem. Enim feugiat et nec morbi consectetur enim, dis tortor. Quis laoreet parturient interdum etiam rutrum fringilla. Fusce conubia dictum convallis etiam volutpat mi velit tortor. Augue ac nullam pellentesque magnis interdum nibh vestibulum. Vestibulum justo porta dis elit sit maecenas suscipit. Vivamus ornare porta; commodo ac montes natoque massa fusce malesuada.
+
+Cursus amet odio etiam erat; dictum class rhoncus. Porta aliquet duis cubilia nibh massa scelerisque donec nam. Et tristique nascetur tortor potenti quam condimentum orci. Maecenas dis class tempus vel nec turpis. Nulla ornare tincidunt pulvinar iaculis convallis ultrices nec viverra imperdiet. Per id felis mi quis tincidunt tristique. Vivamus ex mi dis condimentum magna laoreet habitasse? Lacus ac nam congue pellentesque magnis sagittis dapibus natoque ut.
+
+Aptent mauris magnis ultrices est suspendisse conubia felis torquent ridiculus. Etiam ut condimentum fermentum ornare ipsum vulputate? Massa integer eros eleifend varius ad praesent diam sit nam. At penatibus dolor efficitur odio augue donec vitae. Vehicula faucibus dignissim aptent massa convallis odio risus. Scelerisque tempor libero quisque varius morbi dis. Pellentesque habitant dictum maecenas dignissim laoreet vestibulum iaculis turpis diam. Elit gravida luctus felis facilisi posuere. Habitant non torquent lobortis, pellentesque elit semper.
+
+Est habitasse volutpat gravida elit cursus aptent habitant enim. Quis tempus lobortis curae arcu neque. Facilisi efficitur dolor dictum, vivamus in gravida fusce. Felis purus aptent pharetra volutpat; mattis volutpat morbi litora taciti. Dignissim facilisi litora ad tempus volutpat ligula. Porta tempus commodo magnis risus faucibus libero feugiat aliquet. Porttitor dictum fusce vehicula mauris urna laoreet magnis! Cras eu taciti ut ac commodo sollicitudin efficitur litora praesent.
+
+Logging Compression/Decompression:
+Size Before Compress:
+	- Small.txt size: 2.52 kb
+	- Large.txt size: 268 kb
+Size After Compress:
+	- Small.txt size: 2.07 kb
+	- Large.txt size: 155 kb
+
+Time Taken to Compress:
+	- Small.txt: 28.3613 ms
+	- Large.txt: 94.2664 ms
+Time Taken to Decompress:
+	- Small.txt: 20.625 ms
+	- Large.txt: 186.6779 ms
